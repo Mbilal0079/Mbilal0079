@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Bilal Asghar
 
 <div align="center">
